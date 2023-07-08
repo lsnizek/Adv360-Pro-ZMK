@@ -1,0 +1,6 @@
+[remote "lsnizek"]
+	url = https://lsnizek@github.com/lsnizek/Adv360-Pro-ZMK
+	fetch = +refs/heads/*:refs/remotes/lsnizek/*
+[user]
+	name = lsnizek
+	email = email@server.com
